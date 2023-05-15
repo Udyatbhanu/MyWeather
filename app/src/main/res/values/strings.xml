@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MyWeather</string>
+
+
+    <string name="permission_rationale">
+        Location permission is needed for core functionality
+    </string>
+    <string name="no_location_detected">
+        No location detected. Make sure location is enabled on the device.
+    </string>
+    <string name="permission_denied_explanation">
+        Permission was denied, but is needed for core functionality.
+    </string>
+    <string name="settings">Settings</string>
+
+
+    <string name="clear_all">Clear All</string>
+    <string name="your_location">Your Location</string>
+
+    <string name="weather_description">%1$s in %2$s</string>
+    <string name="wind_speed_text">Wind Speed %1$s mph</string>
+
+
+    <string name="error_message">Oops, the cloud Gods are unhappy!</string>
+</resources>
